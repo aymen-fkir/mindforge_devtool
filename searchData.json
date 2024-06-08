@@ -7,11 +7,24 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - \"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar energy\" OR \"wind energy\") AND (\"peer-to-peer energy trading\" OR \"P2P energy trading\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architectures\") \n",
-                "totalResults": "9",
-                "searchTerms": "\"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar energy\" OR \"wind energy\") AND (\"peer-to-peer energy trading\" OR \"P2P energy trading\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architectures\") \n",
-                "count": 9,
+                "title": "Google Custom Search - \"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar\" OR \"wind\") AND (\"peer-to-peer energy trading\" OR \"P2P energy\" OR \"transactive energy\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architecture\") \n",
+                "totalResults": "1520",
+                "searchTerms": "\"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar\" OR \"wind\") AND (\"peer-to-peer energy trading\" OR \"P2P energy\" OR \"transactive energy\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architecture\") \n",
+                "count": 10,
                 "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "3007e6b2dd6524328"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - \"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar\" OR \"wind\") AND (\"peer-to-peer energy trading\" OR \"P2P energy\" OR \"transactive energy\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architecture\") \n",
+                "totalResults": "1520",
+                "searchTerms": "\"dynamic energy management system\" AND \"smart home\" AND (\"renewable energy sources\" OR \"solar\" OR \"wind\") AND (\"peer-to-peer energy trading\" OR \"P2P energy\" OR \"transactive energy\") AND (\"optimization algorithms\" OR \"machine learning\" OR \"demand response\") AND (\"implementation\" OR \"case studies\" OR \"architecture\") \n",
+                "count": 10,
+                "startIndex": 11,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
@@ -23,10 +36,10 @@
         "title": "search_engine"
     },
     "searchInformation": {
-        "searchTime": 0.322268,
-        "formattedSearchTime": "0.32",
-        "totalResults": "9",
-        "formattedTotalResults": "9"
+        "searchTime": 1.307875,
+        "formattedSearchTime": "1.31",
+        "totalResults": "1520",
+        "formattedTotalResults": "1,520"
     },
     "items": [
         {
@@ -35,8 +48,8 @@
             "htmlTitle": "Optimal battery sizing of <b>smart home</b> via convex programming ...",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S036054421731472X",
             "displayLink": "www.sciencedirect.com",
-            "snippet": "Dec 1, 2017 ... Solar energy is integrated. Abstract. This ... wind energy systems, and energy management of buildings/homes. ... Demand response (DR)\u00a0...",
-            "htmlSnippet": "Dec 1, 2017 <b>...</b> <b>Solar energy</b> is integrated. Abstract. This ... <b>wind energy</b> systems, and energy management of buildings/homes. ... <b>Demand response</b> (DR)&nbsp;...",
+            "snippet": "Dec 1, 2017 ... However, some renewable energy, such as solar and wind ... Demand response (DR) implementation ... solar-battery power source into smart home\u00a0...",
+            "htmlSnippet": "Dec 1, 2017 <b>...</b> However, some renewable energy, such as <b>solar</b> and <b>wind</b> ... <b>Demand response</b> (DR) <b>implementation</b> ... <b>solar</b>-battery power source into <b>smart home</b>&nbsp;...",
             "formattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S036054421731472X",
             "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S036054421731472X",
             "pagemap": {
@@ -84,12 +97,103 @@
         },
         {
             "kind": "customsearch#result",
+            "title": "A Review of Microgrid Energy Management and Control Strategies",
+            "htmlTitle": "A Review of Microgrid Energy Management and Control Strategies",
+            "link": "https://ieeexplore.ieee.org/iel7/6287639/10005208/10050868.pdf",
+            "displayLink": "ieeexplore.ieee.org",
+            "snippet": "Mar 8, 2023 ... [49] present and discusses state-of-the- art intelligent learning methods for solar energy forecasting for EMS. A review of wind energy\u00a0...",
+            "htmlSnippet": "Mar 8, 2023 <b>...</b> [49] present and discusses state-of-the- art intelligent learning methods for <b>solar</b> energy forecasting for EMS. A review of <b>wind</b> energy&nbsp;...",
+            "formattedUrl": "https://ieeexplore.ieee.org/iel7/6287639/10005208/10050868.pdf",
+            "htmlFormattedUrl": "https://ieeexplore.ieee.org/iel7/6287639/10005208/10050868.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_Gl7lXZS3WyIOID2kBN8EE9oqeryzG0YNEra_LIFADsf16JtqrbHxhA&s",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20230308113056-05'00'",
+                        "creator": "LaTeX with hyperref",
+                        "creationdate": "D:20230307112240+05'30'",
+                        "trapped": "False",
+                        "fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) kpathsea version 6.3.4",
+                        "ieee_issue_id": "10005208",
+                        "subject": "IEEE Access;2023;11; ;10.1109/ACCESS.2023.3248511",
+                        "producer": "pdfTeX-1.40.24; modified using iText\u00ae 7.1.1 \u00a92000-2018 iText Group NV (AGPL-version)",
+                        "title": "A Review of Microgrid Energy Management and Control Strategies",
+                        "ieee_article_id": "10050868",
+                        "ieee_publication_id": "6287639"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e7111940b117dedd83fe3246efec8c9b655894e8f152bf46ada8954cf3d733ed"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Conditional value-at-risk model for smart home energy management ...",
+            "htmlTitle": "Conditional value-at-risk model for <b>smart home</b> energy management ...",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772671121000061",
+            "displayLink": "www.sciencedirect.com",
+            "snippet": "A sensitivity analysis was also carried out to optimally determine the capacity of the solar PV panel and storage system of the studied smart home.",
+            "htmlSnippet": "A sensitivity analysis was also carried out to optimally determine the capacity of the <b>solar</b> PV panel and storage system of the studied <b>smart home</b>.",
+            "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2772671121000061",
+            "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2772671121000061",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdwGzd_ANd9ARXLOl3byBrjyANhHyRZ2HQTJF3x-xRwauiYUFNjdfpgA&s",
+                        "width": "113",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S2772671123X00059-cov150h.gif",
+                        "citation_publication_date": "2021/01/01",
+                        "citation_title": "Conditional value-at-risk model for smart home energy management systems",
+                        "citation_author_institution": "Institute for Systems and Computer Engineering, Technology and Science (INESCTEC), 4200-465 Porto, Portugal",
+                        "citation_reference": "citation_journal_title=Energy;citation_author=M.S. Javadi;citation_author=M. Gough;citation_author=M. Lotfi;citation_author=A. Esmaeel Nezhad;citation_author=S.F. Santos;citation_author=J.P.S. Catal\u00e3o;citation_title=Optimal self-scheduling of home energy management system in the presence of photovoltaic power generation and batteries;citation_pages=118568;citation_volume=210;citation_publication_date=2020;citation_doi=10.1016/j.energy.2020.118568;",
+                        "citation_publisher": "Elsevier",
+                        "citation_article_type": "Full-length article",
+                        "citation_type": "JOUR",
+                        "citation_id": "100006",
+                        "citation_journal_title": "e-Prime - Advances in Electrical Engineering, Electronics and Energy",
+                        "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"abs0001\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"abss0001\"><p id=\"spara016\">This paper presents a self-scheduling framework, using a risk-constrained optimization model for the home energy management system (HEMS), considering fixed, controllable, and interruptible loads, as a new contribution to earlier studies. The objectives are reducing the electricity bill and managing the risk of purchasing energy over on-peak hours and prosumer&#x27;s discomfort index (DI) due to shifting load to undesired hours. In this regard, the problem formulation is represented as a mixed-integer linear programming (MILP) model. Afterward, the proposed HEMS is promoted to a conditional value-at-risk (CVaR) model. The prosumer is equipped with an energy storage system and a solar photovoltaic (PV) panel. A substantial fraction of the load demand is controllable, and there is an inverter-based he",
+                        "og:title": "Conditional value-at-risk model for smart home energy management systems",
+                        "citation_author": "Mohammad Sadegh Javadi",
+                        "citation_pii": "S2772671121000061",
+                        "og:description": "This paper presents a self-scheduling framework, using a risk-constrained optimization model for the home energy management system (HEMS), considering\u2026",
+                        "citation_online_date": "2021/10/30",
+                        "citation_author_email": "msjavadi@gmail.com",
+                        "citation_firstpage": "100006",
+                        "citation_issn": "2772-6711",
+                        "citation_doi": "10.1016/j.prime.2021.100006",
+                        "dc.identifier": "10.1016/j.prime.2021.100006",
+                        "citation_volume": "1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ars.els-cdn.com/content/image/1-s2.0-S2772671123X00059-cov150h.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
             "title": "Smart home energy management system \u2013 a review | Request PDF",
             "htmlTitle": "<b>Smart home</b> energy management system \u2013 a review | Request PDF",
             "link": "https://www.researchgate.net/publication/343748101_Smart_home_energy_management_system_-_a_review",
             "displayLink": "www.researchgate.net",
-            "snippet": "Our proposal is finally validated through implementation in one real smart home ... Design and Implementation of an Interactive Interface for Demand Response and\u00a0...",
-            "htmlSnippet": "Our proposal is finally validated through <b>implementation</b> in one real <b>smart home</b> ... Design and <b>Implementation</b> of an Interactive Interface for <b>Demand Response</b> and&nbsp;...",
+            "snippet": "... Architecture. Article. Full-text available. Aug 2022 ... The proposed smart home architecture ... Design and Implementation of an Interactive Interface for Demand\u00a0...",
+            "htmlSnippet": "... <b>Architecture</b>. Article. Full-text available. Aug 2022 ... The proposed <b>smart home architecture</b> ... Design and <b>Implementation</b> of an Interactive Interface for <b>Demand</b>&nbsp;...",
             "formattedUrl": "https://www.researchgate.net/.../343748101_Smart_home_energy_manage...",
             "htmlFormattedUrl": "https://www.researchgate.net/.../343748101_<b>Smart_home</b>_energy_manage...",
             "pagemap": {
@@ -144,142 +248,119 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Designing an optimal microgrid control system using deep ...",
-            "htmlTitle": "Designing an optimal microgrid control system using deep ...",
-            "link": "https://www.sciencedirect.com/science/article/pii/S2215098624000375",
+            "title": "Performance analysis of different control models for smart demand ...",
+            "htmlTitle": "Performance analysis of different control models for smart demand ...",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2352152X2401394X",
             "displayLink": "www.sciencedirect.com",
-            "snippet": "Microgrid systems play a pivotal role in the integration of renewable energy sources and enhancing electrical grid resilience. ... implementation of DRL in\u00a0...",
-            "htmlSnippet": "Microgrid systems play a pivotal role in the integration of <b>renewable energy sources</b> and enhancing electrical grid resilience. ... <b>implementation</b> of DRL in&nbsp;...",
-            "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2215098624000375",
-            "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2215098624000375",
+            "snippet": "A demand response scheme is employed to formulate ... The implementation of the DES provides a promising ... A study of a solar PV and wind-based residential\u00a0...",
+            "htmlSnippet": "A <b>demand response</b> scheme is employed to formulate ... The <b>implementation</b> of the DES provides a promising ... A study of a <b>solar</b> PV and <b>wind</b>-based residential&nbsp;...",
+            "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2352152X2401394X",
+            "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2352152X2401394X",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvdoH0cX4oUl5pCLbDxiTr5__LkfftHNq9C7-T2d2a1ojl8SBxwbSGjc&s",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaI5hbIL76LgeZBBWb-tOerL3Rr5EUztjKSr09oUr87KXDS9zZHYpJibs&s",
                         "width": "113",
                         "height": "150"
                     }
                 ],
                 "metatags": [
                     {
-                        "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S2215098624X00038-cov150h.gif",
-                        "citation_publication_date": "2024/03/01",
-                        "citation_title": "Designing an optimal microgrid control system using deep reinforcement learning: A systematic review",
-                        "citation_author_institution": "Department of Electrical Engineering, Universitas Sriwijaya, Jl. Raya Palembang, Prabumulih Km. 32 Indralaya, OI, Sumatera Selatan 30662, Indonesia",
-                        "citation_reference": "citation_journal_title=Int. J. Dyn. Control;citation_author=S.K. Sarkar;citation_author=F.R. Badal;citation_author=S.K. Das;citation_title=A comparative study of high performance robust PID controller for grid voltage control of islanded microgrid;citation_firstpage=1207;citation_lastpage=1217;citation_volume=6;citation_publication_date=2018;",
+                        "citation_author_orcid": "0000-0003-0498-5065",
+                        "og:image": "https://ars.els-cdn.com/content/image/S2352152X.gif",
+                        "citation_publication_date": "2024/06/20",
+                        "citation_title": "Performance analysis of different control models for smart demand\u2013supply energy management system",
+                        "citation_author_institution": "Research Institute for Sciences and Engineering (RISE), University of Sharjah, Sharjah, United Arab Emirates",
+                        "citation_reference": "citation_journal_title=Renew. Sustain. Energy Rev.;citation_author=N.T. Mbungu;citation_title=Control and estimation techniques applied to smart microgrids: A review;citation_pages=113251;citation_publication_date=2023;",
                         "citation_publisher": "Elsevier",
-                        "citation_article_type": "Review article",
+                        "citation_article_type": "Full-length article",
                         "citation_type": "JOUR",
-                        "citation_id": "101651",
-                        "citation_journal_title": "Engineering Science and Technology, an International Journal",
-                        "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"ab005\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"as005\"><p id=\"sp0005\">Microgrid systems play a pivotal role in the integration of renewable energy sources and enhancing electrical grid resilience. Deep Reinforcement Learning (DRL), a subset of artificial intelligence, holds the potential to revolutionize the control and management of microgrids. This systematic review aims to provide a comprehensive assessment of the current state of research on designing microgrid control systems using DRL. In this review, an overview of microgrid systems is presented, along with their components, and the inherent challenges in control and management. By systematically categorizing the chosen articles, a summary and critical evaluation of the primary discoveries, methodologies, and contributions in this area are tabulated. Additionally, an assessment of research methodology quality is condu",
-                        "og:title": "Designing an optimal microgrid control system using deep reinforcement learning: A systematic review",
-                        "citation_author": "Noer Fadzri Perdana Dinata",
-                        "citation_pii": "S2215098624000375",
-                        "og:description": "Microgrid systems play a pivotal role in the integration of renewable energy sources and enhancing electrical grid resilience. Deep Reinforcement Lear\u2026",
-                        "citation_online_date": "2024/02/20",
-                        "citation_author_email": "abubakar@unsri.ac.id",
-                        "citation_firstpage": "101651",
-                        "citation_issn": "2215-0986",
-                        "citation_doi": "10.1016/j.jestch.2024.101651",
-                        "dc.identifier": "10.1016/j.jestch.2024.101651",
-                        "citation_volume": "51"
+                        "citation_id": "111809",
+                        "citation_journal_title": "Journal of Energy Storage",
+                        "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"d1e951\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"d1e954\"><p id=\"d1e955\">Several features of innovative grid technologies can be deployed to improve the overall performance of the power system environment. This can be seen from the generation to the consumption of energy. The two-way communication of smart metering introduces the novel functionalities of the energy management system. This paper presents a practical implementation of using the intelligent metering system. It consists of implementing a nanogrid that optimally coordinates the energy from the solar panel, battery storage and utility grid to supply the end user. The developed model is validated with an optimal value of the state of charge of the distributed energy storage to maximise energy from the solar panel and battery storage while minimising the power received from the utility grid. A demand response scheme ",
+                        "og:title": "Performance analysis of different control models for smart demand\u2013supply energy management system",
+                        "citation_author": "Nsilulu T. Mbungu",
+                        "citation_pii": "S2352152X2401394X",
+                        "og:description": "Several features of innovative grid technologies can be deployed to improve the overall performance of the power system environment. This can be seen \u2026",
+                        "citation_online_date": "2024/05/10",
+                        "citation_author_email": "ntmbungu@ieee.org",
+                        "citation_firstpage": "111809",
+                        "citation_issn": "2352-152X",
+                        "citation_doi": "10.1016/j.est.2024.111809",
+                        "dc.identifier": "10.1016/j.est.2024.111809",
+                        "citation_volume": "90"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://ars.els-cdn.com/content/image/1-s2.0-S2215098624X00038-cov150h.gif"
+                        "src": "https://ars.els-cdn.com/content/image/S2352152X.gif"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Review of distributed control and optimization in energy internet ...",
-            "htmlTitle": "Review of distributed control and optimization in energy internet ...",
-            "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12007",
-            "displayLink": "ietresearch.onlinelibrary.wiley.com",
-            "snippet": "Apr 5, 2021 ... ... wind energy;. Energy is generated, stored and ... The implementation ... [71] propose a system-wide demand response management model to coordinate\u00a0...",
-            "htmlSnippet": "Apr 5, 2021 <b>...</b> ... <b>wind energy</b>;. Energy is generated, stored and ... The <b>implementation</b> ... [71] propose a system-wide <b>demand response</b> management model to coordinate&nbsp;...",
-            "formattedUrl": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12007",
-            "htmlFormattedUrl": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12007",
+            "title": "Distributed Learning Applications in Power Systems: A Review of ...",
+            "htmlTitle": "Distributed Learning Applications in Power Systems: A Review of ...",
+            "link": "https://www.mdpi.com/1996-1073/14/12/3654",
+            "displayLink": "www.mdpi.com",
+            "snippet": "... machine learning algorithm designed to handle ... implementation without requiring specific system models and parameters [4]. ... Architecture for Short-Term Wind\u00a0...",
+            "htmlSnippet": "... <b>machine learning</b> algorithm designed to handle ... <b>implementation</b> without requiring specific system models and parameters [4]. ... <b>Architecture</b> for Short-Term <b>Wind</b>&nbsp;...",
+            "formattedUrl": "https://www.mdpi.com/1996-1073/14/12/3654",
+            "htmlFormattedUrl": "https://www.mdpi.com/1996-1073/14/12/3654",
             "pagemap": {
                 "metatags": [
                     {
-                        "og:image": "https://ietresearch.onlinelibrary.wiley.com/cms/asset/e765b055-f49e-4273-88cf-11103280701e/cps2.v6.2.cover.jpg?trick=1707036007734",
-                        "citation_publication_date": "2021/06/01",
-                        "citation_title": "Review of distributed control and optimization in energy internet: From traditional methods to artificial intelligence-based methods",
-                        "citation_author_institution": "College of Energy and Electrical Engineering Hohai University Nanjing China",
-                        "og:site_name": "Institution of Engineering and Technology",
-                        "citation_publisher": "The Institution of Engineering and Technology",
-                        "citation_journal_title": "IET Cyber-Physical Systems: Theory & Applications",
-                        "og:description": "Energy internet (EI) can alleviate the arduous challenges brought about by the energy crisis and global warming and has aroused the concern of many scholars. In the research of EI control systems, th...",
-                        "twitter:image": "https://ietresearch.onlinelibrary.wiley.com/cms/asset/e765b055-f49e-4273-88cf-11103280701e/cps2.v6.2.cover.jpg?trick=1707036007734",
-                        "citation_online_date": "2021/04/05",
-                        "citation_issn": "2398-3396",
-                        "citation_language": "en",
-                        "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1049/cps2.12007",
-                        "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1049/cps2.12007",
-                        "citation_lastpage": "79",
-                        "og:type": "Article",
-                        "pbcontext": ";page:string:Article/Chapter View;ctype:string:Journal Content;journal:journal:23983396;article:article:doi\\:10.1049/cps2.12007;website:website:ietresearch;issue:issue:doi\\:10.1049/cps2.v6.2;wgroup:string:Publication Websites;requestedJournal:journal:23983396;pageGroup:string:Publication Pages;subPage:string:Full Text",
-                        "og:title": "Review of distributed control and optimization in energy internet: From traditional methods to artificial intelligence\u2010based methods",
-                        "citation_author": "Haochen Hua",
-                        "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1049/cps2.12007",
-                        "citation_issue": "2",
-                        "citation_firstpage": "63",
-                        "referrer": "origin-when-cross-origin",
-                        "viewport": "width=device-width,initial-scale=1",
-                        "citation_doi": "10.1049/cps2.12007",
-                        "dc.identifier": "10.1049/cps2.12007",
-                        "citation_volume": "6",
-                        "og:url": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cps2.12007",
-                        "article_references": "Hua, H., Wei, Z., Qin, Y., Wang, T., Li, L. and Cao, J. (2021), Review of distributed control and optimization in energy internet: From traditional methods to artificial intelligence-based methods. IET Cyber-Phys. Syst., Theory Appl, 6: 63-79. https://doi.org/10.1049/cps2.12007"
+                        "dc.publisher": "Multidisciplinary Digital Publishing Institute",
+                        "prism.startingpage": "3654",
+                        "citation_publication_date": "2021/1",
+                        "theme-color": "#ffffff",
+                        "citation_title": "Distributed Learning Applications in Power Systems: A Review of Methods, Gaps, and Challenges",
+                        "citation_publisher": "Multidisciplinary Digital Publishing Institute",
+                        "citation_journal_title": "Energies",
+                        "citation_id": "mdpi-en14123654",
+                        "dc.rights": "http://creativecommons.org/licenses/by/3.0/",
+                        "dc.format": "application/pdf",
+                        "sso-service": "mdpi",
+                        "prism.publicationdate": "2021-06-19",
+                        "msapplication-tileimage": "https://pub.mdpi-res.com/img/journals/energies-logo-sq.png?8600e93ff98dbf14",
+                        "title": "Distributed Learning Applications in Power Systems: A Review of Methods, Gaps, and Challenges",
+                        "prism.issn": "1996-1073",
+                        "citation_online_date": "2021/06/19",
+                        "fulltext_xml": "https://www.mdpi.com/1996-1073/14/12/3654/xml",
+                        "prism.number": "12",
+                        "citation_issn": "1996-1073",
+                        "dc.type": "Review",
+                        "dc.source": "Energies 2021, Vol. 14, Page 3654",
+                        "dc.creator": "Nastaran Gholizadeh",
+                        "citation_fulltext_html_url": "https://www.mdpi.com/1996-1073/14/12/3654/htm",
+                        "citation_pdf_url": "https://www.mdpi.com/1996-1073/14/12/3654/pdf?version=1624268531",
+                        "application-name": "\u00a0",
+                        "prism.publicationname": "Energies",
+                        "dc.description": "In recent years, machine learning methods have found numerous applications in power systems for load forecasting, voltage control, power quality monitoring, anomaly detection, etc. Distributed learning is a subfield of machine learning and a descendant of the multi-agent systems field. Distributed learning is a collaboratively decentralized machine learning algorithm designed to handle large data sizes, solve complex learning problems, and increase privacy. Moreover, it can reduce the risk of a single point of failure compared to fully centralized approaches and lower the bandwidth and central storage requirements. This paper introduces three existing distributed learning frameworks and reviews the applications that have been proposed for them in power systems so far. It summarizes the methods, benefits, and challenges of distributed learning frameworks in power systems and identifies the gaps in the literature for future studies.",
+                        "citation_author": "Gholizadeh, Nastaran",
+                        "dc.date": "2021-06-19",
+                        "citation_abstract_html_url": "https://www.mdpi.com/1996-1073/14/12/3654",
+                        "citation_issue": "12",
+                        "fulltext_html": "https://www.mdpi.com/1996-1073/14/12/3654/htm",
+                        "prism.volume": "14",
+                        "citation_firstpage": "3654",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fulltext_pdf": "https://www.mdpi.com/1996-1073/14/12/3654/pdf?version=1624268531",
+                        "citation_doi": "10.3390/en14123654",
+                        "dc.title": "Distributed Learning Applications in Power Systems: A Review of Methods, Gaps, and Challenges",
+                        "dc.identifier": "10.3390/en14123654",
+                        "dc.subject": "machine learning",
+                        "prism.section": "Review",
+                        "citation_volume": "14",
+                        "dc.language": "en"
                     }
                 ],
-                "cse_image": [
+                "scholarlyarticle": [
                     {
-                        "src": "https://ietresearch.onlinelibrary.wiley.com/cms/asset/e765b055-f49e-4273-88cf-11103280701e/cps2.v6.2.cover.jpg?trick=1707036007734"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Reinforcement Learning Techniques for Optimal Power Control in ...",
-            "htmlTitle": "Reinforcement Learning Techniques for Optimal Power Control in ...",
-            "link": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09261330.pdf",
-            "displayLink": "ieeexplore.ieee.org",
-            "snippet": "Dec 2, 2020 ... Distributed generators that are supplied by intermittent renewable energy sources (RES) are being connected to the grids. ... demand response.",
-            "htmlSnippet": "Dec 2, 2020 <b>...</b> Distributed generators that are supplied by intermittent <b>renewable energy sources</b> (RES) are being connected to the grids. ... <b>demand response</b>.",
-            "formattedUrl": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09261330.pdf",
-            "htmlFormattedUrl": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09261330.pdf",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWt3pp8R-G3YNMqLfh_Qgp2FrmgdH0U8Egkev39vseHC6PCIUNv8Z6I4&s",
-                        "width": "229",
-                        "height": "220"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "moddate": "D:20201126053341-05'00'",
-                        "creator": "LaTeX with hyperref package",
-                        "creationdate": "D:20201125123417+05'30'",
-                        "fullbanner": "This is MiKTeX-pdfTeX 2.9.4535 (1.40.13)",
-                        "trapped": "False",
-                        "ieee_issue_id": "8948470",
-                        "subject": "IEEE Access;2020;8; ;10.1109/ACCESS.2020.3038735",
-                        "producer": "pdfTeX-1.40.13; modified using iText\u00ae 7.1.1 \u00a92000-2018 iText Group NV (AGPL-version)",
-                        "title": "Reinforcement Learning Techniques for Optimal Power Control in Grid-Connected Microgrids: A Comprehensive Review",
-                        "ieee_article_id": "9261330",
-                        "ieee_publication_id": "6287639"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "x-raw-image:///760be6b18e0477a87bb9eee6a7627e75925243cf5087531d860a11874667943f"
+                        "name": "Distributed Learning Applications in Power Systems: A Review of Methods, Gaps, and Challenges",
+                        "publisher": "Multidisciplinary Digital Publishing Institute",
+                        "url": "https://www.mdpi.com/1996-1073/14/12/3654"
                     }
                 ]
             }
@@ -290,8 +371,8 @@
             "htmlTitle": "A Review of Energy Management Systems and Organizational ...",
             "link": "https://upcommons.upc.edu/bitstream/handle/2117/387854/energies-16-03179.pdf;jsessionid=3695C6CE2BC7860AE8021A6BF2EE6AA7?sequence=1",
             "displayLink": "upcommons.upc.edu",
-            "snippet": "Mar 31, 2023 ... implementation-eucountries/energy-and ... Demand Response and Battery Storage System. ... for peer-to-peer energy trading in the smart grid.",
-            "htmlSnippet": "Mar 31, 2023 <b>...</b> <b>implementation</b>-eucountries/energy-and ... <b>Demand Response</b> and Battery Storage System. ... for <b>peer-to-peer energy trading</b> in the smart grid.",
+            "snippet": "Mar 31, 2023 ... current solar irradiance and wind speed, and ... implementation-eucountries ... Demand Response Architecture: Integration into the Distribu-.",
+            "htmlSnippet": "Mar 31, 2023 <b>...</b> current <b>solar</b> irradiance and <b>wind</b> speed, and ... <b>implementation</b>-eucountries ... <b>Demand Response Architecture</b>: Integration into the Distribu-.",
             "formattedUrl": "https://upcommons.upc.edu/bitstream/handle/.../energies-16-03179.pdf;...",
             "htmlFormattedUrl": "https://upcommons.upc.edu/bitstream/handle/.../energies-16-03179.pdf;...",
             "pagemap": {
@@ -324,12 +405,94 @@
         },
         {
             "kind": "customsearch#result",
+            "title": "A Review of Multi-Agent Based Energy Management Systems",
+            "htmlTitle": "A Review of Multi-Agent Based Energy Management Systems",
+            "link": "https://bisite.usal.es/archivos/amin_review_maems_isami_17.pdf",
+            "displayLink": "bisite.usal.es",
+            "snippet": "Prediction Engine (PE) provides accurate prediction of all stochastic vari- ables of the system such as wind speed, solar radiation, weather temperature,.",
+            "htmlSnippet": "Prediction Engine (PE) provides accurate prediction of all stochastic vari- ables of the system such as <b>wind</b> speed, <b>solar</b> radiation, weather temperature,.",
+            "formattedUrl": "https://bisite.usal.es/archivos/amin_review_maems_isami_17.pdf",
+            "htmlFormattedUrl": "https://bisite.usal.es/archivos/amin_review_maems_isami_17.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KvEFIq68vPD_L3OsbP7pqokrHoVEyV3QMlc1Rj9Jd6M3cXbnUNwqzQZs&s",
+                        "width": "293",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20170220205317+01'00'",
+                        "creator": "TeX",
+                        "creationdate": "D:20170220205317+01'00'",
+                        "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) kpathsea version 6.2.2",
+                        "producer": "pdfTeX-1.40.17"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f8f7611311eaad4a5b9920952ad5b98bb1cb79f4003c5a59666c096be63a503a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Conditional value-at-risk model for smart home energy management ...",
+            "htmlTitle": "Conditional value-at-risk model for <b>smart home</b> energy management ...",
+            "link": "https://vbn.aau.dk/files/457962135/1_s2.0_S2772671121000061_main.pdf",
+            "displayLink": "vbn.aau.dk",
+            "snippet": "Today, demand response ... The model incorporated a PV system, wind turbine and electric vehicles (EVs). ... mine the capacity of the solar PV panel and storage\u00a0...",
+            "htmlSnippet": "Today, <b>demand response</b> ... The model incorporated a PV system, <b>wind</b> turbine and electric vehicles (EVs). ... mine the capacity of the <b>solar</b> PV panel and storage&nbsp;...",
+            "formattedUrl": "https://vbn.aau.dk/files/457962135/1_s2.0_S2772671121000061_main.pdf",
+            "htmlFormattedUrl": "https://vbn.aau.dk/files/457962135/1_s2.0_S2772671121000061_main.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWRCsaBeCP26tJU7JY6amLP661C261G8yAs2vNeNo0ou2wlDrBj1hK4DB&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "creationdate": "D:20211203012626+05'30'",
+                        "creator": "Elsevier",
+                        "crossmarkdomains_1_": "sciencedirect.com",
+                        "crossmarkdomains_2_": "elsevier.com",
+                        "author": "Mohammad Sadegh Javadi",
+                        "subject": "e-Prime - Advances in Electrical Engineering, Electronics and Energy, 1 (2021) 100006. doi:10.1016/j.prime.2021.100006",
+                        "crossmarkmajorversiondate": "2010-04-23",
+                        "crossmarkdomainexclusive": "true",
+                        "elsevierwebpdfspecifications": "7.0",
+                        "authoritativedomain_1_": "sciencedirect.com",
+                        "title": "Conditional value-at-risk model for smart home energy management systems",
+                        "authoritativedomain_2_": "elsevier.com",
+                        "moddate": "D:20211203012717+05'30'",
+                        "producer": "Acrobat Distiller 10.0.0 (Windows)",
+                        "doi": "10.1016/j.prime.2021.100006"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///34fbd0dcdb4a7f783542abcba6259ca0ac2e883c5f2508885d7bc73319fcf065"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
             "title": "Energy Management of Prosumer Communities",
             "htmlTitle": "Energy Management of Prosumer Communities",
             "link": "https://www.econstor.eu/bitstream/10419/274012/1/1839366087.pdf",
             "displayLink": "www.econstor.eu",
-            "snippet": "Automatic P2P Energy trading model based on ... Implementation of a dynamic energy management system using real ... smart home or from the smart home to the power\u00a0...",
-            "htmlSnippet": "Automatic <b>P2P Energy trading</b> model based on ... <b>Implementation</b> of a <b>dynamic energy management system</b> using real ... <b>smart home</b> or from the <b>smart home</b> to the power&nbsp;...",
+            "snippet": "... smart home with rooftop solar photovoltaic system, energy ... Implementation of a dynamic energy management system using real ... While renewable energy sources (\u00a0...",
+            "htmlSnippet": "... <b>smart home</b> with rooftop <b>solar</b> photovoltaic system, energy ... <b>Implementation</b> of a <b>dynamic energy management system</b> using real ... While <b>renewable energy sources</b> (&nbsp;...",
             "formattedUrl": "https://www.econstor.eu/bitstream/10419/274012/1/1839366087.pdf",
             "htmlFormattedUrl": "https://www.econstor.eu/bitstream/10419/274012/1/1839366087.pdf",
             "pagemap": {
@@ -359,62 +522,6 @@
             },
             "mime": "application/pdf",
             "fileFormat": "PDF/Adobe Acrobat"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "University of Southern Denmark Agent-Based Framework for ...",
-            "htmlTitle": "University of Southern Denmark Agent-Based Framework for ...",
-            "link": "https://portal.findresearcher.sdu.dk/files/209481765/PhD_thesis_Magnus_V_rbak.pdf",
-            "displayLink": "portal.findresearcher.sdu.dk",
-            "snippet": "Aug 21, 2022 ... costs and a demand-response aggregation actor planning the demand-response incentives to ... framework implementation but do not appear\u00a0...",
-            "htmlSnippet": "Aug 21, 2022 <b>...</b> costs and a <b>demand-response</b> aggregation actor planning the <b>demand-response</b> incentives to ... framework <b>implementation</b> but do not appear&nbsp;...",
-            "formattedUrl": "https://portal.findresearcher.sdu.dk/files/.../PhD_thesis_Magnus_V_rbak.pd...",
-            "htmlFormattedUrl": "https://portal.findresearcher.sdu.dk/files/.../PhD_thesis_Magnus_V_rbak.pd...",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkID4ml9KC8O8Q7zhe1qad7u3hZhD4GHZYbfmKJSxvHPSzQX-WlKqLgPnp&s",
-                        "width": "321",
-                        "height": "157"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "moddate": "D:20220823213915+02'00'",
-                        "creationdate": "D:20220823213348+02'00'",
-                        "creator": "Acrobat PDFMaker 22 til Word",
-                        "sourcemodified": "D:20220823193154",
-                        "author": "Magnus V\u00e6rbak",
-                        "producer": "Adobe PDF Library 22.2.223"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "x-raw-image:///537e39ccb081c78fe06ccc36247404c389f1c3f267696897a31a7887603388db"
-                    }
-                ]
-            },
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Citation analysis for Energy / Elsevier",
-            "htmlTitle": "Citation analysis for Energy / Elsevier",
-            "link": "http://citec.repec.org/s/2020/eeeenergy.html",
-            "displayLink": "citec.repec.org",
-            "snippet": "... Demand response experience in Europe: Policies, programmes and implementation ... solar energy consumption using a novel seasonal ... wind energy potential\u00a0...",
-            "htmlSnippet": "... <b>Demand response</b> experience in Europe: Policies, programmes and <b>implementation</b> ... <b>solar energy</b> consumption using a novel seasonal ... <b>wind energy</b> potential&nbsp;...",
-            "formattedUrl": "http://citec.repec.org/s/2020/eeeenergy.html",
-            "htmlFormattedUrl": "http://citec.repec.org/s/2020/eeeenergy.html",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1",
-                        "author": "Jose Manuel Barrueco"
-                    }
-                ]
-            }
         }
     ]
 }
