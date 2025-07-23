@@ -31,7 +31,7 @@ class MindGather:
 	def SearchTheWeb(self,URL,query,SEARCHKEY,CX):
 		params = {"key":SEARCHKEY,"cx":CX,"q":query}
 		responce = requests.get(URL,params=params)
-		return responce.text
+		return json.loads(responce.text)
 
 	def process(self,text):
 		keys = ["problem","requirments","Tec"]
@@ -134,10 +134,8 @@ class MindGather:
 		print("Step 2- finished")
 		with open("queries.txt","a") as f:
 			f.write(query)
-		Searchdata = self.SearchTheWeb(URL,query,SEARCHKEY,CX) 
+		SearchData = self.SearchTheWeb(URL,query,SEARCHKEY,CX) 
 		print("Step 3- finished")
-		SearchData = json.loads(Searchdata)
-		
 		self.saveSummary(SearchData,"searchData.json")
 		if "items" in SearchData.keys():
 			items = SearchData["items"]
