@@ -46,7 +46,7 @@ To get MindGather up and running, follow these steps:
 
 ```bash
 git clone <repository_url>
-cd MindGather
+cd mindforge_devtool
 ```
 
 ### 2\. Install Dependencies
@@ -70,7 +70,7 @@ token=YOUR_SCRAPEDO_API_TOKEN
 
 ### 4\. Place Your PDF
 
-Ensure your project requirements PDF file (defaulting to `req.pdf`) is in the same directory as the `MindGather.py` script, or update the `file_name` variable in the `main` method to point to your PDF.
+Ensure your project requirements PDF file (defaulting to `req.pdf`) is in the same directory as the `readDocs.py` script, or update the `file_name` variable in the `main` method to point to your PDF.
 
 -----
 
@@ -79,7 +79,7 @@ Ensure your project requirements PDF file (defaulting to `req.pdf`) is in the sa
 To start MindGather and launch the Gradio interface:
 
 ```bash
-python MindGather.py
+python readDocs.py
 ```
 
 The script will first perform the automated steps of reading the PDF, extracting information, searching the web, and scraping data. You'll see progress messages in your console:
@@ -102,7 +102,7 @@ Once these steps are complete, a Gradio web interface will open in your browser 
 
 ## Project Structure
 
-  * `MindGather.py`: The main script containing the `MindGather` class and its functionalities.
+  * `readDocs.py`: The main script containing the `readDocs` class and its functionalities.
   * `.env`: Environment file for API keys (not included in version control).
   * `req.pdf`: Placeholder for your project requirements PDF.
   * `summary.json` (optional): Stores extracted problem, requirements, and tech details.
